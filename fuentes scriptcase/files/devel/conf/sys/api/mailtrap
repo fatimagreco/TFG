@@ -1,0 +1,1 @@
+a:5:{s:4:"name";s:8:"mailtrap";s:3:"mod";s:3:"sys";s:4:"type";s:5:"email";s:7:"gateway";s:4:"smtp";s:8:"settings";a:7:{s:11:"smtp_server";s:16:"smtp.mailtrap.io";s:9:"smtp_port";s:4:"2525";s:9:"smtp_user";s:14:"1a203256034a76";s:13:"smtp_password";s:14:"13503111d93b1b";s:13:"smtp_protocol";s:3:"TLS";s:10:"from_email";s:17:"ossva01@gmail.com";s:9:"from_name";s:7:"Pruebas";}}
