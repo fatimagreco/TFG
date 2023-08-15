@@ -1,0 +1,16 @@
+.css_anam_date_label, .css_anam_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_anam_date_grid_line, .css_anam_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_anam_strtime_label, .css_anam_strtime_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_anam_strtime_grid_line, .css_anam_strtime_grid_line:hover {vertical-align: top;text-align: center;}
+.css_num_doc_label, .css_num_doc_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_num_doc_grid_line, .css_num_doc_grid_line:hover {text-align: center;}
+.css_pati_id_label, .css_pati_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_pati_id_grid_line, .css_pati_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_reason_label, .css_anam_reason_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_anam_reason_grid_line, .css_anam_reason_grid_line:hover {vertical-align: top;text-align: right;}
+.css_user_id_label, .css_user_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_user_id_grid_line, .css_user_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_id_label, .css_anam_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_anam_id_grid_line, .css_anam_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_endtime_label, .css_anam_endtime_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_anam_endtime_grid_line, .css_anam_endtime_grid_line:hover {vertical-align: top;text-align: center;}

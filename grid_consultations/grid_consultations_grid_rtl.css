@@ -1,0 +1,12 @@
+.css_consul_date_label, .css_consul_date_label:hover {text-align:left;vertical-align:top;justify-content:left;font-weight:bold;}
+.css_consul_date_grid_line, .css_consul_date_grid_line:hover {vertical-align: top;text-align: right;}
+.css_consul_strtime_label, .css_consul_strtime_label:hover {text-align:left;vertical-align:top;justify-content:left;font-weight:bold;}
+.css_consul_strtime_grid_line, .css_consul_strtime_grid_line:hover {vertical-align: top;text-align: right;}
+.css_p_pati_docnum_label, .css_p_pati_docnum_label:hover {text-align:left;vertical-align:top;justify-content:left;font-weight:bold;}
+.css_p_pati_docnum_grid_line, .css_p_pati_docnum_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pname_label, .css_pname_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pname_grid_line, .css_pname_grid_line:hover {vertical-align: top;text-align: right;}
+.css_consul_reason_label, .css_consul_reason_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_consul_reason_grid_line, .css_consul_reason_grid_line:hover {vertical-align: top;text-align: right;}
+.css_uname_label, .css_uname_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_uname_grid_line, .css_uname_grid_line:hover {vertical-align: top;text-align: right;}

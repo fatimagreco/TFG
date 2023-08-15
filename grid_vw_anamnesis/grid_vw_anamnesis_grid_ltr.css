@@ -1,0 +1,33 @@
+.css_anam_date_label, .css_anam_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_anam_date_grid_line, .css_anam_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_anam_strtime_label, .css_anam_strtime_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_anam_strtime_grid_line, .css_anam_strtime_grid_line:hover {vertical-align: top;text-align: center;}
+.css_pati_name_label, .css_pati_name_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pati_name_grid_line, .css_pati_name_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pati_lname_label, .css_pati_lname_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pati_lname_grid_line, .css_pati_lname_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pati_bod_label, .css_pati_bod_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_pati_bod_grid_line, .css_pati_bod_grid_line:hover {vertical-align: top;text-align: center;}
+.css_anam_bpsys_label, .css_anam_bpsys_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_anam_bpsys_grid_line, .css_anam_bpsys_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_bpdia_label, .css_anam_bpdia_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_anam_bpdia_grid_line, .css_anam_bpdia_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_career_label, .css_anam_career_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_anam_career_grid_line, .css_anam_career_grid_line:hover {vertical-align: top;text-align: left;}
+.css_anam_caryear_label, .css_anam_caryear_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_anam_caryear_grid_line, .css_anam_caryear_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_reason_label, .css_anam_reason_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_anam_reason_grid_line, .css_anam_reason_grid_line:hover {vertical-align: top;text-align: left;}
+.css_treat_instruc_label, .css_treat_instruc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_treat_instruc_grid_line, .css_treat_instruc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_anam_id_label, .css_anam_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_anam_id_grid_line, .css_anam_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_id_tot_ger, .css_anam_id_tot_ger:hover {text-align: ;text-align: right;}
+.css_pati_id_label, .css_pati_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_pati_id_grid_line, .css_pati_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_user_id_label, .css_user_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_user_id_grid_line, .css_user_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anam_endtime_label, .css_anam_endtime_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_anam_endtime_grid_line, .css_anam_endtime_grid_line:hover {vertical-align: top;text-align: center;}
+.css_anam_id_S_sub_tot, .css_anam_id_S_sub_tot:hover {text-align: left;text-align: right;}
+.css_anam_id_S_tot_ger, .css_anam_id_S_tot_ger:hover {text-align: right;}

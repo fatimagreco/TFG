@@ -1,0 +1,18 @@
+.css_user_name_label, .css_user_name_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_user_name_grid_line, .css_user_name_grid_line:hover {vertical-align: top;text-align: left;}
+.css_user_docnum_label, .css_user_docnum_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_user_docnum_grid_line, .css_user_docnum_grid_line:hover {vertical-align: top;text-align: right;}
+.css_user_bod_label, .css_user_bod_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_user_bod_grid_line, .css_user_bod_grid_line:hover {vertical-align: top;text-align: center;}
+.css_user_phone_label, .css_user_phone_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_user_phone_grid_line, .css_user_phone_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pos_id_label, .css_pos_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_pos_id_grid_line, .css_pos_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_gerens_id_label, .css_gerens_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_gerens_id_grid_line, .css_gerens_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_btyp_id_label, .css_btyp_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_btyp_id_grid_line, .css_btyp_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_user_id_label, .css_user_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_user_id_grid_line, .css_user_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_user_addreess_label, .css_user_addreess_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_user_addreess_grid_line, .css_user_addreess_grid_line:hover {vertical-align: top;text-align: left;}

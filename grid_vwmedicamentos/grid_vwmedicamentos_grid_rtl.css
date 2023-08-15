@@ -1,0 +1,18 @@
+.css_med_types_mtype_name_label, .css_med_types_mtype_name_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_med_types_mtype_name_grid_line, .css_med_types_mtype_name_grid_line:hover {vertical-align: top;text-align: right;}
+.css_medicines_meds_desc_label, .css_medicines_meds_desc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medicines_meds_desc_grid_line, .css_medicines_meds_desc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_med_presentation_mpres_desc_label, .css_med_presentation_mpres_desc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_med_presentation_mpres_desc_grid_line, .css_med_presentation_mpres_desc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_med_stocks_mstk_exist_label, .css_med_stocks_mstk_exist_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_med_stocks_mstk_exist_grid_line, .css_med_stocks_mstk_exist_grid_line:hover {vertical-align: top;text-align: right;}
+.css_med_stocks_mstk_stkmin_label, .css_med_stocks_mstk_stkmin_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_med_stocks_mstk_stkmin_grid_line, .css_med_stocks_mstk_stkmin_grid_line:hover {vertical-align: top;text-align: right;}
+.css_med_stocks_mstk_stkmax_label, .css_med_stocks_mstk_stkmax_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_med_stocks_mstk_stkmax_grid_line, .css_med_stocks_mstk_stkmax_grid_line:hover {vertical-align: top;text-align: right;}
+.css_med_stocks_mstk_id_label, .css_med_stocks_mstk_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_med_stocks_mstk_id_grid_line, .css_med_stocks_mstk_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_med_stocks_mpres_id_label, .css_med_stocks_mpres_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_med_stocks_mpres_id_grid_line, .css_med_stocks_mpres_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_med_stocks_mstk_exp_label, .css_med_stocks_mstk_exp_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_med_stocks_mstk_exp_grid_line, .css_med_stocks_mstk_exp_grid_line:hover {vertical-align: top;text-align: center;}

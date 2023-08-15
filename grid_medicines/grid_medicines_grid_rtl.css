@@ -1,0 +1,6 @@
+.css_meds_desc_label, .css_meds_desc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_meds_desc_grid_line, .css_meds_desc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_mtype_id_label, .css_mtype_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_mtype_id_grid_line, .css_mtype_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_meds_id_label, .css_meds_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_meds_id_grid_line, .css_meds_id_grid_line:hover {vertical-align: top;text-align: right;}
